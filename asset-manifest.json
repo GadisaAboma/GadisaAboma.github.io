@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.7e03ad16.css",
+    "main.js": "/my-website/static/js/main.05dd3b18.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/about.JPG": "/my-website/static/media/about.d465c53bcfa30fe854c7.JPG",
+    "static/media/removedbg.png": "/my-website/static/media/removedbg.4946b68e530da36cf5dc.png",
+    "static/media/gadisa cv.pdf": "/my-website/static/media/gadisa cv.1fb198ea4e06ca728e69.pdf",
+    "static/media/telemedicine.jpg": "/my-website/static/media/telemedicine.3ceed6b1e1617bfc1294.jpg",
+    "static/media/school.png": "/my-website/static/media/school.aa3e0ae7cac57bc91380.png",
+    "index.html": "/my-website/index.html",
+    "main.7e03ad16.css.map": "/my-website/static/css/main.7e03ad16.css.map",
+    "main.05dd3b18.js.map": "/my-website/static/js/main.05dd3b18.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e03ad16.css",
+    "static/js/main.05dd3b18.js"
+  ]
+}
